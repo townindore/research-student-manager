@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<title>Login - Research Student Manager - QVW7</title>
+<title>Login - Research Student Manager</title>
 <style type="text/css">
 <!--
 body {
@@ -91,8 +91,8 @@ body {
     </table></td>
   </tr>
   <tr>
-	<td align="center" colspan="2" style="font-family:Georgia;font-size:13px"><br><br>Developed by <b>Yajun Huang</b> for the <b><i>QVW7 Final Project</i></b>
-	<br><br><b>Supervisor:</b> Vindya Wijeratne</td>
+	<td align="center" colspan="2" style="font-family:Georgia;font-size:13px"><br><br>Developed by <b>Yingduo Tang</b>
+	<br></td>
 	</tr>
 </table>
 </body>

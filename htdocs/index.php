@@ -6,7 +6,7 @@ include("session.php");
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
-<title>QVW7-Research Student Management System</title>
+<title>Research Student Management System</title>
 </head>
 
 <frameset rows="59,*" cols="*" frameborder="no" border="0" framespacing="0">
